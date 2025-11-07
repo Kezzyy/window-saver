@@ -1,0 +1,31 @@
+{
+  "tab_active": "Aktivní",
+  "tab_saved": "Uložené",
+  "tab_settings": "Nastavení",
+  "tab_about": "O aplikaci",
+
+  "active_windows": "Aktuálně běžící okna:",
+  "refresh": "Obnovit seznam",
+  "save_selected": "Uložit vybrané okno",
+
+  "saved_configs": "Uložené konfigurace:",
+  "apply_selected": "Aplikovat vybrané",
+  "delete_selected": "Smazat vybrané",
+
+  "lang_label": "Jazyk aplikace:",
+
+  "about_html": "<b>Window Saver {version}</b><br>Autor: {author} / <b>Shimatsu</b><br><br>Aplikace automaticky přenastaví pozici a velikost herních oken podle výchozích hodnot uvedených ve scriptu.<br><br><i>Tyto hodnoty lze změnit přímo v Python souboru.</i><br><br>Tento projekt je součástí platformy <b>Shimatsu</b>.",
+
+  "err_no_window": "Nevybral jsi žádné okno.",
+  "err_no_saved": "Nevybral jsi žádné uložené okno.",
+  "err_not_running": "Okno není aktuálně spuštěné.",
+
+  "deleted": "Smazáno:",
+  "saved": "Uloženo:",
+  "already_saved": "Okno už je uložené.",
+
+  "tray_running": "Aplikace běží na pozadí. Klikni na tray ikonu pro otevření.",
+  "tray_title": "Window Saver běží",
+
+  "lang_switched": "Jazyk přepnut na:"
+}

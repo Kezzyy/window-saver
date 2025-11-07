@@ -1,0 +1,31 @@
+{
+  "tab_active": "Active",
+  "tab_saved": "Saved",
+  "tab_settings": "Settings",
+  "tab_about": "About",
+
+  "active_windows": "Currently running windows:",
+  "refresh": "Refresh list",
+  "save_selected": "Save selected window",
+
+  "saved_configs": "Saved configurations:",
+  "apply_selected": "Apply selected",
+  "delete_selected": "Delete selected",
+
+  "lang_label": "Application language:",
+
+  "about_html": "<b>Window Saver {version}</b><br>Author: {author} / <b>Shimatsu</b><br><br>This app automatically restores window position and size based on default values defined in the script.<br><br><i>You can modify these values directly in the Python file.</i><br><br>This project is part of the <b>Shimatsu</b> platform.",
+
+  "err_no_window": "No window selected.",
+  "err_no_saved": "No saved window selected.",
+  "err_not_running": "The window is not currently running.",
+
+  "deleted": "Deleted:",
+  "saved": "Saved:",
+  "already_saved": "Window already saved.",
+
+  "tray_running": "App is running in the background. Click the tray icon to open.",
+  "tray_title": "Window Saver running",
+
+  "lang_switched": "Language switched to:"
+}
